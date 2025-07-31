@@ -1,4 +1,5 @@
-# SalesAnalysis_SQL_PowerBI
+# Sales-Insights-Dashboard
+## A sales analytics project using AdventureWorks data. Includes SQL scripts, data preparation steps, and Power BI dashboard structure
 
 ### Setup
 - This project requires SQL Server (SQL Express), Power BI Desktop
