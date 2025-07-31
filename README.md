@@ -32,4 +32,12 @@
 - Customer Details
 - Pivot Table
 
+## Dashboard
+<img width="1399" height="833" alt="Screenshot 2025-07-31 at 11 17 39 AM" src="https://github.com/user-attachments/assets/1e23079b-0498-4b0f-b6e2-e92879944fdd" />
+<img width="1399" height="833" alt="Screenshot 2025-07-31 at 11 17 47 AM" src="https://github.com/user-attachments/assets/b48d9033-5aba-4ae7-81ea-3f5027379dcf" />
+<img width="1399" height="833" alt="Screenshot 2025-07-31 at 11 17 58 AM" src="https://github.com/user-attachments/assets/5573e7a2-dfe5-4a28-89f1-b4b5e2fd0c3a" />
+
+## Download 
+[Download as Pdf](https://github.com/user-attachments/files/21523010/Sales.Report.pdf)
+
 
